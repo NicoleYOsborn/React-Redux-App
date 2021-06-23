@@ -15,7 +15,7 @@ export default function App() {
   return (
     <Provider store = {store}>
     <div className="App">
-      <h1>🍺🍺   World Breweries   🍺🍺</h1>
+      <h1>🍺 🍺     Breweries     🍺 🍺</h1>
       <BreweryForm />
       <BreweriesList />
     </div>

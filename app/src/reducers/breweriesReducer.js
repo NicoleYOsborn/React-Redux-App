@@ -2,7 +2,7 @@ import { FETCH_DATA, UPDATE_BREWERIES, SET_ERROR } from "../actions";
 
 const initialState = {
   breweries: [],
-  isFectiongData: false,
+  isFecthingData: false,
   error: ''
 };
 
